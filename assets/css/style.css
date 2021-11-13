@@ -357,19 +357,6 @@ section .container {
   color: #fff;
 }
 
-.section-title p.resume-download {
-  margin: 0;
-  margin: -15px 0 15px 0;
-  font-size: 14px;
-  font-weight: 700;
-  font-family: "Poppins", sans-serif;
-  color: #fff;
-}
-
-.section-title p.resume-download a {
-  color: #18d26e;
-}
-
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
