@@ -237,6 +237,15 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #18d26e;
 }
 
+.next-section {
+  background: #18d26e;
+  text-align: center;
+}
+
+.next-section a {
+  color: #fff;
+}
+
 /**
 * Mobile Navigation 
 */
